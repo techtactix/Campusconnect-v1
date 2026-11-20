@@ -1,17 +1,15 @@
-# campus_connect
+CampusConnect
 
-A new Flutter project.
+This is a simple campus community app i made using Flutter. 
 
-## Getting Started
+College updates often get lost across scattered whatsapp/telegran groups and bulletin boards, so i wanted to make a centralized place where students can quickly check announcements, register for events, and discover campus clubs and events.
 
-This project is a starting point for a Flutter application.
+ What it does:
+- Shows important college announcements with category filters
+- Lists upcoming college events with registration option
+- Allows students to browse and join student clubs
 
-A few resources to get you started if this is your first Flutter project:
+Tech used:
+- Flutter / Dart
+- Material 3 design
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
